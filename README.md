@@ -41,6 +41,10 @@ The primary goals are:
 
 ## 🗂️ Folder Structure
 
+Each LeetCode problem is stored in its **own folder**, formatted as `ProblemNumber-ProblemName/`, which includes:
+
+- `README.md` → Problem description, approach, and complexity
+- `solution.cpp` → C++ solution code
 
 ---
 
