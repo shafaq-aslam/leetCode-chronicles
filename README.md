@@ -62,14 +62,6 @@ I strive to solve at least 1–2 problems daily to maintain consistency and stay
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaq-aslam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🌱 Why "LeetCode Chronicles"?
 
 Because every solved problem is a **chapter** in my journey of mastering DSA and preparing for coding interviews. This repo is both a study log and a personal motivator 💪
