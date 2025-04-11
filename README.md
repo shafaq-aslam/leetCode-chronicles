@@ -41,3 +41,43 @@ The primary goals are:
 
 ## 🗂️ Folder Structure
 
+
+---
+
+## 🧠 Sample Problem Format
+
+Each problem includes:
+
+- ✅ Problem name with link  
+- ✅ Problem description (short summary)  
+- ✅ Code solution  
+- ✅ Time & space complexity  
+- ✅ Personal notes or insights (if needed)
+
+---
+
+## 🔥 Daily Commitment
+
+I strive to solve at least 1–2 problems daily to maintain consistency and stay sharp. Follow along or contribute if you're on a similar journey!
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaq-aslam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌱 Why "LeetCode Chronicles"?
+
+Because every solved problem is a **chapter** in my journey of mastering DSA and preparing for coding interviews. This repo is both a study log and a personal motivator 💪
+
+> 🧠 “Practice makes progress — not perfection.”
+
+---
+
+## 📌 Tags for SEO
+
+`leetcode` `dsa` `data-structures` `algorithms` `cpp` `problem-solving` `interview-prep` `coding-challenges` `leetcode-solutions` `competitive-programming` `arrays` `recursion` `dynamic-programming`
